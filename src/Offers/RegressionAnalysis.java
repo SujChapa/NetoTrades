@@ -69,7 +69,7 @@ public class RegressionAnalysis {
 				}
 				
 				
-				
+				////hadhgdfhdmcsw
 				float b = tpSum / t2Sum;
 
 				float offer = (float) (sellerInitPrice + (allCells[i].cellReservePrice - sellerInitPrice)
